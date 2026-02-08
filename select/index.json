@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Drown",
+  "base_artist": "Bring Me The Horizon",
+  "createdAt": "2026-02-08T04:22:38.235242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Not To Drown (feat. Robert Smith)",
+      "artist": "CHVRCHES feat. Robert Smith",
+      "has_synced": true,
+      "path": "select/01_How_Not_To_Drown_(feat._Robert_Smith)_CHVRCHES_feat._Robert_Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drown (Edit)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/02_Drown_(Edit)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Human Can Drown",
+      "artist": "Clan of Xymox",
+      "has_synced": true,
+      "path": "select/03_No_Human_Can_Drown_Clan_of_Xymox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drown",
+      "artist": "Black Tambourine",
+      "has_synced": false,
+      "path": "select/04_Drown_Black_Tambourine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drown",
+      "artist": "BONES feat. Jonny Telafone",
+      "has_synced": false,
+      "path": "select/05_Drown_BONES_feat._Jonny_Telafone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drown (feat. Jonny Telafone)",
+      "artist": "BONES",
+      "has_synced": false,
+      "path": "select/06_Drown_(feat._Jonny_Telafone)_BONES.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Finish Line / Drown",
+      "artist": "Chance The Rapper, T-Pain, Kirk Franklin, Eryn Allen Kane & Noname",
+      "has_synced": true,
+      "path": "select/07_Finish_Line___Drown_Chance_The_Rapper,_T-Pain,_Kirk_Franklin,_Eryn_Allen_Kane_&_Noname.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Finish Line \u0000 Drown (feat. T‐Pain, Kirk Franklin, Eryn Allen Kane & No Name)",
+      "artist": "Chance the Rapper",
+      "has_synced": true,
+      "path": "select/08_Finish_Line_\u0000_Drown_(feat._T‐Pain,_Kirk_Franklin,_Eryn_Allen_Kane_&_No_Name)_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drown With Me",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/09_Drown_With_Me_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drown",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/10_Drown_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Until I Drown",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/11_Until_I_Drown_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drown Her",
+      "artist": "GFOTY",
+      "has_synced": true,
+      "path": "select/12_Drown_Her_GFOTY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drown Soda",
+      "artist": "Hole",
+      "has_synced": false,
+      "path": "select/13_Drown_Soda_Hole.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drown Soda - Live",
+      "artist": "Hole",
+      "has_synced": false,
+      "path": "select/14_Drown_Soda_-_Live_Hole.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drown",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/15_Drown_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drown Together",
+      "artist": "Sentenced",
+      "has_synced": true,
+      "path": "select/16_Drown_Together_Sentenced.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drown",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/pl_01_Drown_Bring_Me_The_Horizon.txt"
+    }
+  ]
+}
